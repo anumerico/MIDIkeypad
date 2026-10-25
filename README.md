@@ -9,3 +9,6 @@ Any other components you want, but I won't walk you through wiring them
 And then your actual MIDI keys will use capacitive touch which just uses exposed copper on the PCB which uses the electrical field from your body to detect presses!
 
 <img width="1920" height="1046" alt="Pasted image 20261013004957" src="https://github.com/user-attachments/assets/022e966e-c438-4362-b402-6b264be3c56c" />
+
+<img width="3953" height="2464" alt="Screenshot from 2026-10-24 21-19-44" src="https://github.com/user-attachments/assets/a3bd4be3-bf92-4cfb-a6b0-1fe058b4ad48" />
+
